@@ -40,6 +40,7 @@
 .section__description {
   color: var(--text-light);
   line-height: 1.75rem;
+  text-align: justify;
 }
 .section__description a{
   color: var(--text-light);
